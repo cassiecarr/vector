@@ -1,12 +1,12 @@
 # vector
 
 This vector class was built using the Udacity linear algebra course.
-It provides basic functions for doing vector mathematics
+It provides basic functions for doing vector mathematics.
 
 ## Installation
 
-Import the class, along with math and Decimal
-Also, you will need to indicate your decimal precision
+Import the class, along with math and Decimal.
+Also, you will need to indicate your decimal precision.
 
 ```python
 from vector import Vector
@@ -17,8 +17,8 @@ getcontext().prec = 30
 
 ## Examples
 
-Here are some examples of various methods provided by the vector class
-These can also be found in the vector_examples.py file
+Here are some examples of various methods provided by the vector class.
+These can also be found in the vector_examples.py file.
 ```python
 ##Print vector and vectors equal
 print("Print Vector: ")
