@@ -1,6 +1,6 @@
 # vector
 
-This vector class was built using the Udaciy linear algebra course.
+This vector class was built using the Udacity linear algebra course.
 It provides basic functions for doing vector mathematics
 
 ## Installation
